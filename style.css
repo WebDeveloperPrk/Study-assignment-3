@@ -283,6 +283,7 @@ ol li:before {
     border-radius: 15px;
     padding: 5px;
     margin-top: 10px;
+	font-weight: bold;
 
 }
 
@@ -372,5 +373,6 @@ ol li:before {
     position: relative;
     top: 30px;
 }
+
 
 
