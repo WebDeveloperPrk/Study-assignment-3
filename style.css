@@ -87,6 +87,7 @@ body {
     font-size: 19px;
     font-weight: bold;
     background-color: white;
+	top: 15px;
     
 }
 
@@ -365,3 +366,4 @@ ol li:before {
     position: relative;
     top: 30px;
 }
+
