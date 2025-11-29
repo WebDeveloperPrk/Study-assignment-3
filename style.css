@@ -122,6 +122,12 @@ body {
         background-color: white;
 }
 
+.card_container p {
+
+    font-weight: bold;
+}
+
+
 .logo_card {
 
     width: 35px;
@@ -366,4 +372,5 @@ ol li:before {
     position: relative;
     top: 30px;
 }
+
 
